@@ -1,0 +1,48 @@
+/* Resume.css */
+
+.resume {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .resume-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .resume-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .resume-proficiencies-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .resume-proficiencies-list {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .resume-proficiencies-item {
+    margin-bottom: 5px;
+  }
+  
+  .resume-download-link {
+    background-color: #00f;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 5px;
+  }
+  
+  .resume-download-link:hover {
+    background-color: #0000ff;
+  }
+  
